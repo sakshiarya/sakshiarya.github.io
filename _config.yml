@@ -23,7 +23,7 @@ twitter_username:
 github_username: sakshiarya
 linkedin_username:
 
-logo: /assets/images/logoSakshi.jpeg
+logo: /assets/images/Sakshi_logo.jpeg
 search: false #, false (default)
 logo: /assets/images/ # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 excerpt: "A nice background picture"
@@ -65,7 +65,7 @@ social:
 # Site Author
 author: 
   name: "Sakshi Arya"
-  avatar: /assets/images/logo.png
+  avatar: /assets/images/Sakshi_logo.png
   bio: "Assistant Professor in Statistics at Case Western Reserve Univesity"
   location: "Cleveland, Ohio, USA"
   links:
