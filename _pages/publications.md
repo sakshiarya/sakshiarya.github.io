@@ -15,10 +15,9 @@ author_profile: true
 Published/ Accepted
 ---------------
 
-+  Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise (2023). <a href="/assets/pdf/SankhyaA_AA_SA.pdf" target="_blank">(pdf)</a> <br/> _Sankhya A 85, 1127–1155_
-S. Arya, and A. Abhishek. <br/>
-+ To update or not to update? Delayed nonparametric bandits with randomized allocation (2021). <a href="/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf" target="_blank">(pdf)</a>  <br /> _Stat. 2021; 10:e366_, <br />
-S.Arya, and Y. Yang. <br/>
++  Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise (2023). S. Arya, and A. Abhishek. <a href="/assets/pdf/SankhyaA_AA_SA.pdf" target="_blank">(pdf)</a> <br/> _Sankhya A 85, 1127–1155_ <br/>
++ To update or not to update? Delayed nonparametric bandits with randomized allocation (2021). S.Arya, and Y. Yang. <br/>
+ <a href="/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf" target="_blank">(pdf)</a>  <br /> _Stat. 2021; 10:e366_, <br />
 + Randomized allocation with nonparametric estimation for contextual multi-armed bandits with delayed rewards. S.Arya, and Y. Yang. <br/> _Statistics & Probability Letters, Volume 164, September 2020, 108818_  <a href="/assets/pdf/SPLpaperpublished-main.pdf" target="_blank">(pdf)</a>. <br/>
 + Unbiased Sampling of Users from (Online) Activity Data. Z.W.Almquist, S. Arya, L. Zeng, E.Spiro.<br/> _Field Methods, 31(1), 23–38_  <a href="/assets/pdf/FieldMethods.pdf" target="_blank">(pdf)</a>. <br/>
 
