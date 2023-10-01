@@ -20,8 +20,9 @@ __Current__
 <li> STAT 243  (Introduction to Mathematical Statistics) - Fall 2023<br/>
 MAMS, Case Western Reserve University </li> <br/>
 
-
+---------------
 __Past__
+<ul>
 <li> STAT 414 (Introduction to Probability) - Fall 2021, 2022<br/>
 Department of Statistics, Penn State University </li> <br/>
 
