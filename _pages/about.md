@@ -2,9 +2,9 @@
 permalink: /about/
 layout: single
 title: "About"
-header:
+<!-- header:
   overlay_image: /assets/images/about.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.5 -->
 show_overlay_title: true
 share: false
 classes: wide
