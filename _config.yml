@@ -69,6 +69,8 @@ author:
   bio: "Assistant Professor in Statistics at Case Western Reserve Univesity"
   location: "Cleveland, Ohio, USA"
   links:
+    - email: "Email"
+      url: "sxa1351@case.edu"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sakshiarya"
