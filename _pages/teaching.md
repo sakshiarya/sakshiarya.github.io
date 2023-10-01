@@ -20,15 +20,16 @@ __Current__
 <li> STAT 243  (Introduction to Mathematical Statistics) - Fall 2023<br/>
 MAMS, Case Western Reserve University </li> <br/>
 
----------------
-__Past__
+
+__Past__ <br/>
+
 <ul>
 <li> STAT 414 (Introduction to Probability) - Fall 2021, 2022<br/>
 Department of Statistics, Penn State University </li> <br/>
 
 <li>STAT 4101 (Intro to Statistics)- 2019<br/>
 Department of Statistics, University of Minnesota </li>
-</ul> <br/>
+</ul> <br/>  
 
 <!-- __Teaching Assistant__<br/>
 (Department of Statistics, University of California, Davis)  <br/>
