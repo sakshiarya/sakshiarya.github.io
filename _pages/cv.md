@@ -37,7 +37,7 @@ Tata Institute for Fundamental Research, CAM, Bangalore, India
 
 __2012 - 2015__<br/>
 B.Sc. in Mathematics<br/>
-Lady Shri Ram College, Delhi University, Delhi -->
+Lady Shri Ram College, Delhi University, Delhi.
 
 
 <!-- __2010 - 2012__<br/>
