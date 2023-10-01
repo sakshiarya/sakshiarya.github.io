@@ -22,11 +22,9 @@ MAMS, Case Western Reserve University </li> <br/>
 
 
 __Past__ <br/>
-
 <ul>
 <li> STAT 414 (Introduction to Probability) - Fall 2021, 2022<br/>
-Department of Statistics, Penn State University </li> <br/>
-
+Department of Statistics, Penn State University </li> 
 <li>STAT 4101 (Intro to Statistics)- 2019<br/>
 Department of Statistics, University of Minnesota </li>
 </ul> <br/>  
@@ -41,7 +39,7 @@ Department of Statistics, University of Minnesota </li>
 <li> STA 131AB (Introduction to Mathematical Statistics) </li>
 <li> STA 200B (Mathematical Statistics- Masters level coursework) </li>
 <li> STA 106 (Analysis of Variance)</li>
-</ul><br/> -->
+</ul><br/>  -->
 
 
 <!-- __Mentoring__<br/>
