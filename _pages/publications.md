@@ -15,21 +15,21 @@ author_profile: true
 Published/ Accepted
 ---------------
 
-+  Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise (2023). _Sankhya A 85, 1127–1155_
-S. Arya, and A. Abhishek <a href="/assets/pdf/SankhyaA_AA_SA.pdf" target="_blank">(pdf)</a>. <br/>
-+ To update or not to update? Delayed nonparametric bandits with randomized allocation (2021). _Stat. 2021; 10:e366_, <br />
-S.Arya, and Y. Yang <a href="/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf" target="_blank">(pdf)</a>. <br/>
-+ Randomized allocation with nonparametric estimation for contextual multi-armed bandits with delayed rewards. _Statistics & Probability Letters, Volume 164, September 2020, 108818_ S.Arya, and Y. Yang <a href="/assets/pdf/SPLpaperpublished-main.pdf" target="_blank">(pdf)</a>. <br/>
-+ Unbiased Sampling of Users from (Online) Activity Data. _Field Methods, 31(1), 23–38_ Z.W.Almquist, S. Arya, L. Zeng, E.Spiro. <a href="/assets/pdf/FieldMethods.pdf" target="_blank">(pdf)</a>. <br/>
++  Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise (2023). <a href="/assets/pdf/SankhyaA_AA_SA.pdf" target="_blank">(pdf)</a> <br/> _Sankhya A 85, 1127–1155_
+S. Arya, and A. Abhishek. <br/>
++ To update or not to update? Delayed nonparametric bandits with randomized allocation (2021). <a href="/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf" target="_blank">(pdf)</a>  <br /> _Stat. 2021; 10:e366_, <br />
+S.Arya, and Y. Yang. <br/>
++ Randomized allocation with nonparametric estimation for contextual multi-armed bandits with delayed rewards. S.Arya, and Y. Yang. <br/> _Statistics & Probability Letters, Volume 164, September 2020, 108818_  <a href="/assets/pdf/SPLpaperpublished-main.pdf" target="_blank">(pdf)</a>. <br/>
++ Unbiased Sampling of Users from (Online) Activity Data. Z.W.Almquist, S. Arya, L. Zeng, E.Spiro.<br/> _Field Methods, 31(1), 23–38_  <a href="/assets/pdf/FieldMethods.pdf" target="_blank">(pdf)</a>. <br/>
 
 
 Preprints
 ---------------
 
-+  Kernel $\epsilon$-Greedy for Contextual Bandits (2023-). _ArXiv preprint_ S.Arya, and, B.K. Sriperumbudur.
++  Kernel $\epsilon$-Greedy for Contextual Bandits (2023-). S.Arya, and, B.K. Sriperumbudur <br/> _ArXiv preprint_.
 <a href="/assets/pdf/kernel_eps_greedy.pdf" target="_blank">(pdf)</a>. <br/>
-+ Finite-time analysis of randomized allocation strategies for nonparametric bandits with delayed rewards (2023-). _Arxiv preprint_ S.Arya, and Y. Yang. 
-+ Predictions of damages from Atlantic tropical cyclones: a hierarchical Bayesian study on extremes (2023-). _Arxiv preprint_ L. Dietz, S. Arya, and S. Chatterjee. <a href="/assets/pdf/bayesstorms.pdf" target="_blank">(pdf)</a>. <br/>
++ Finite-time analysis of randomized allocation strategies for nonparametric bandits with delayed rewards (2023-), S.Arya, and Y. Yang. _Arxiv preprint_ 
++ Predictions of damages from Atlantic tropical cyclones: a hierarchical Bayesian study on extremes (2023-). L. Dietz, S. Arya, and S. Chatterjee  <br/> _Arxiv preprint_ . <a href="/assets/pdf/bayesstorms.pdf" target="_blank">(pdf)</a>. <br/>
 <!--- + Bhattacharjee, S., Li, B., Xue, L. (2023-). Nonlinear global Fréchet regression for random objects via weak conditional expectation. _ArXiv preprint, Under review for Annals of Statistics_ <a href="/assets/pdf/draft0.pdf" target="_blank">(pdf)</a>.<br/> --->
 
 <!-- Ongoing work
