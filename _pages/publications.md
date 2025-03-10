@@ -24,7 +24,8 @@ Published/ Accepted
 
 Preprints
 ---------------
-
++ Semi-Parametric Batched Global Multi-Armed Bandits with Covariates (2025). <br/>S.Arya, and, H. Song  _ArXiv preprint_.
+<a href="/assets/pdf/SIRBandits.pdf" target="_blank">(pdf)</a>. <br/>
 +  Kernel $\epsilon$-Greedy for Contextual Bandits (2023-). <br/>S.Arya, and, B.K. Sriperumbudur  _ArXiv preprint_.
 <a href="/assets/pdf/kernel_eps_greedy.pdf" target="_blank">(pdf)</a>. <br/>
 + Finite-time analysis of randomized allocation strategies for nonparametric bandits with delayed rewards (2023-), S.Arya, and Y. Yang. _Arxiv preprint_ 
