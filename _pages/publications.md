@@ -24,12 +24,12 @@ Published/ Accepted
 
 Preprints
 ---------------
-+ Semi-Parametric Batched Global Multi-Armed Bandits with Covariates (2025). <br/>S.Arya, and, H. Song  _ArXiv preprint_.
++ Semi-Parametric Batched Global Multi-Armed Bandits with Covariates (2025). <br/> with Hyebin Song  _ArXiv preprint_.
 <a href="/assets/pdf/SIRBandits.pdf" target="_blank">(pdf)</a>. <br/>
-+  Kernel $\epsilon$-Greedy for Contextual Bandits (2023-). <br/>S.Arya, and, B.K. Sriperumbudur  _ArXiv preprint_.
++  Kernel $\epsilon$-Greedy for Contextual Bandits (2023-). <br/> with Bharath K. Sriperumbudur  _ArXiv preprint_.
 <a href="/assets/pdf/kernel_eps_greedy.pdf" target="_blank">(pdf)</a>. <br/>
-+ Finite-time analysis of randomized allocation strategies for nonparametric bandits with delayed rewards (2023-), S.Arya, and Y. Yang. _Arxiv preprint_ 
-+ Predictions of damages from Atlantic tropical cyclones: a hierarchical Bayesian study on extremes (2023-). <br/>  L. Dietz, S. Arya, and S. Chatterjee  _Arxiv preprint_ . <a href="/assets/pdf/bayesstorms.pdf" target="_blank">(pdf)</a>, [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian) <br/>
++ Finite-time analysis of randomized allocation strategies for nonparametric bandits with delayed rewards (2023-), with Yuhong Yang. _Arxiv preprint_ 
++ Predictions of damages from Atlantic tropical cyclones: a hierarchical Bayesian study on extremes (2023-). <br/>  with Lindsey Dietz, Vishal Subedi, Auroop Ganguly and Snigdhansu Chatterjee  _Arxiv preprint_ . <a href="/assets/pdf/bayesstorms.pdf" target="_blank">(pdf)</a>, [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian) <br/>
 <!--- + Bhattacharjee, S., Li, B., Xue, L. (2023-). Nonlinear global Fréchet regression for random objects via weak conditional expectation. _ArXiv preprint, Under review for Annals of Statistics_ <a href="/assets/pdf/draft0.pdf" target="_blank">(pdf)</a>.<br/> --->
 
 <!-- Ongoing work
