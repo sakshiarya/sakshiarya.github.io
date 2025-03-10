@@ -15,11 +15,11 @@ author_profile: true
 Published/ Accepted
 ---------------
 
-+  Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise.<br/> S. Arya, and A. Abhishek. _Sankhya A 85 (2023), 1127–1155_ <a href="/assets/pdf/SankhyaA_AA_SA.pdf" target="_blank">(pdf)</a> <br/>
-+ To update or not to update? Delayed nonparametric bandits with randomized allocation. S.Arya, and Y. Yang.  <br /> _Stat. 2021; 10:e366_ 
++  Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise.<br/> with Anuj Abhishek. _Sankhya A 85 (2023), 1127–1155_ <a href="/assets/pdf/SankhyaA_AA_SA.pdf" target="_blank">(pdf)</a> <br/>
++ To update or not to update? Delayed nonparametric bandits with randomized allocation. with Yuhong Yang.  <br /> _Stat. 2021; 10:e366_ 
  <a href="/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf" target="_blank">(pdf)</a><br /> 
-+ Randomized allocation with nonparametric estimation for contextual multi-armed bandits with delayed rewards.<br/> S.Arya, and Y. Yang.  _Statistics & Probability Letters, Volume 164, September 2020, 108818_  <a href="/assets/pdf/SPLpaperpublished-main.pdf" target="_blank">(pdf)</a>. <br/>
-+ Unbiased Sampling of Users from (Online) Activity Data. <br/>Z.W.Almquist, S. Arya, L. Zeng, E.Spiro. _Field Methods, 2019, 31(1), 23–38_  <a href="/assets/pdf/FieldMethods.pdf" target="_blank">(pdf)</a>. <br/>
++ Randomized allocation with nonparametric estimation for contextual multi-armed bandits with delayed rewards.<br/>  with Yuhong Yang.  _Statistics & Probability Letters, Volume 164, September 2020, 108818_  <a href="/assets/pdf/SPLpaperpublished-main.pdf" target="_blank">(pdf)</a>. <br/>
++ Unbiased Sampling of Users from (Online) Activity Data. <br/> with Zach W.Almquist, Li Zeng, Emma Spiro. _Field Methods, 2019, 31(1), 23–38_  <a href="/assets/pdf/FieldMethods.pdf" target="_blank">(pdf)</a>. <br/>
 
 
 Preprints
