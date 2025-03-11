@@ -21,3 +21,4 @@ My main research interests are
 If you are interested in knowing more about my work, contact me by [email](mailto:sxa1351@case.edu). 
 
 ## News:
+- I'll be co-organizing the [Data fest 2025](https://mathstats.case.edu/datafest/datafest-2025/). It is a fun event and you could win trophies and free bragging rights, plus we play also some games to keep you moving!
