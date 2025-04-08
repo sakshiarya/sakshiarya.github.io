@@ -11,7 +11,7 @@ classes: wide
 author_profile: true  
 ---
 
-View my full <a href="/assets/pdf/AryaCV_updated2024.pdf" target="_blank">CV</a>.
+View my full <a href="/assets/pdf/AryaCV.pdf" target="_blank">CV</a>.
 ---------------
 
 
