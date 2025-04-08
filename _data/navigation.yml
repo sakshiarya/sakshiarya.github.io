@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Miscellaneous"
-    url: /Misc/
+  # - title: "Miscellaneous"
+  #   url: /misc/
   - title: "CV"
     url: /assets/pdf/Sakshi_CV.pdf  
   - title: "Publications"
