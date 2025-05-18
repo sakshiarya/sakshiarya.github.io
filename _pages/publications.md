@@ -25,9 +25,9 @@ Published/ Accepted
 Preprints
 ---------------
 
-+ Batched Nonparametric Bandits via k-Nearest Neighbor UCB (2025-). <br/>S.Arya _ArXiv preprint_.
++ Batched Nonparametric Bandits via k-Nearest Neighbor UCB (2025-). <br/> _ArXiv preprint_.
 <a href="/assets/pdf/BaNkUCB.pdf" target="_blank">(pdf)</a>. <br/>
-+ Semi-Parametric Batched Global Multi-Armed Bandits with Covariates (2025-). <br/>S.Arya, and, Hyebin Song _ArXiv preprint_.
++ Semi-Parametric Batched Global Multi-Armed Bandits with Covariates (2025-). <br/> with Hyebin Song _ArXiv preprint_.
 <a href="/assets/pdf/SIRBandits.pdf" target="_blank">(pdf)</a>. <br/>
 +  Kernel $\epsilon$-Greedy for Contextual Bandits (2023-). <br/> with Bharath K. Sriperumbudur  _ArXiv preprint_.
 <a href="/assets/pdf/kernel_eps_greedy.pdf" target="_blank">(pdf)</a>. <br/>
