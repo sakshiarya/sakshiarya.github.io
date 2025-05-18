@@ -18,6 +18,8 @@ My main research interests are
 - nonparametric statistics,
 -  statistical learning theory, inverse problems and machine learning.
 
-If you are interested in knowing more about my work, contact me by [email](mailto:sxa1351@case.edu). 
+If you are interested in knowing more about my work, contact me by [email](mailto:sxa1351@case.edu). Students interested in doing research with me or working on the Capstone project, please make sure you reach out to me at least in the Fall semester prior to enrolling in the Capstone course. 
 
 ## News:
+- I'll be attending the [IISA conference](https://www.intindstat.org/conference2025/index) from June 12-15, 2025.
+

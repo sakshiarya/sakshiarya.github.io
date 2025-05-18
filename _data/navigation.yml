@@ -1,10 +1,10 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "Research"
-  #   url: /research/
+  # - title: "Miscellaneous"
+  #   url: /misc/
   - title: "CV"
-    url: /assets/pdf/Sakshi_CV.pdf  
+    url: /assets/pdf/AryaCV.pdf  
   - title: "Publications"
     url: /publications/
   - title: "Teaching"

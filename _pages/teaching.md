@@ -17,12 +17,18 @@ Teaching
 __Current__
 
 <ul>
-<li> STAT 243  (Introduction to Mathematical Statistics) - Fall 2023<br/>
+<li> STAT 244  (Statistical Theory with Applications II) - Fall 2025<br/>
 MAMS, Case Western Reserve University </li> <br/>
 
 
 __Past__ <br/>
 <ul>
+<li> STAT 244  (Statistical Theory with Applications II) - Spring 2024, 2025 <br/>
+MAMS, Case Western Reserve University </li> <br/>
+<li> STAT 526  (Statistical Learning Theory) - Fall 2024 <br/>
+MAMS, Case Western Reserve University </li> <br/>
+<li> STAT 243  (Statistical Theory with Applications 1) - Fall 2023, 2024<br/>
+MAMS, Case Western Reserve University </li> <br/>
 <li> STAT 414 (Introduction to Probability) - Fall 2021, 2022<br/>
 Department of Statistics, Penn State University </li> 
 <li>STAT 4101 (Intro to Statistics)- 2019<br/>
