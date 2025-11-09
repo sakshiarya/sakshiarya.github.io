@@ -14,7 +14,7 @@ author_profile: true
 
 Published/ Accepted
 ---------------
-
++ Batched Nonparametric Bandits via k-Nearest Neighbor UCB.<br/> Sakshi Arya. _Transactions of Machine Learning Research (TMLR) (2025)_ <a href="/assets/pdf/CameraReadyVersionBankUCB.pdf" target="_blank">(pdf)</a> <br/>
 +  Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise.<br/> with Anuj Abhishek. _Sankhya A 85 (2023), 1127–1155_ <a href="/assets/pdf/SankhyaA_AA_SA.pdf" target="_blank">(pdf)</a> <br/>
 + To update or not to update? Delayed nonparametric bandits with randomized allocation. with Yuhong Yang.  <br /> _Stat. 2021; 10:e366_ 
  <a href="/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf" target="_blank">(pdf)</a><br /> 
@@ -22,17 +22,15 @@ Published/ Accepted
 + Unbiased Sampling of Users from (Online) Activity Data. <br/> with Zach W.Almquist, Li Zeng, Emma Spiro. _Field Methods, 2019, 31(1), 23–38_  <a href="/assets/pdf/FieldMethods.pdf" target="_blank">(pdf)</a>. <br/>
 
 
+
 Preprints
 ---------------
 
-+ Batched Nonparametric Bandits via k-Nearest Neighbor UCB (2025-). <br/> _ArXiv preprint_.
-<a href="/assets/pdf/BaNkUCB.pdf" target="_blank">(pdf)</a>. <br/>
-+ Semi-Parametric Batched Global Multi-Armed Bandits with Covariates (2025-). <br/> with Hyebin Song _ArXiv preprint_.
-<a href="/assets/pdf/SIRBandits.pdf" target="_blank">(pdf)</a>. <br/>
-+  Kernel $\epsilon$-Greedy for Contextual Bandits (2023-). <br/> with Bharath K. Sriperumbudur  _ArXiv preprint_.
-<a href="/assets/pdf/kernel_eps_greedy.pdf" target="_blank">(pdf)</a>. <br/>
-+ Finite-time analysis of randomized allocation strategies for nonparametric bandits with delayed rewards (2023-). <br/>  with Yuhong Yang. _Arxiv preprint_ 
-+ Predictions of damages from Atlantic tropical cyclones: a hierarchical Bayesian study on extremes (2023-). <br/>  with Lindsey Dietz, Vishal Subedi, Auroop Ganguly and Snigdhansu Chatterjee  _Arxiv preprint_ . <a href="/assets/pdf/bayesstorms.pdf" target="_blank">(pdf)</a>, [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian) <br/>
++ Non-Linear Model-Based Sequential Decision-Making in Agriculture (2025). <br/> with Wentao Lin. _ArXiv preprint_. <a href="https://arxiv.org/abs/2509.01924" target="_blank">(arXiv)</a> <br/>
++ Semi-Parametric Batched Global Multi-Armed Bandits with Covariates (2025). <br/> with Hyebin Song. _ArXiv preprint_. <a href="/assets/pdf/SIRBandits.pdf" target="_blank">(pdf)</a> <br/>
++ Kernel $\epsilon$-Greedy for Contextual Bandits (2023–). <br/> with Bharath K. Sriperumbudur. _ArXiv preprint_. <a href="/assets/pdf/kernel_eps_greedy.pdf" target="_blank">(pdf)</a> <br/>
++ Finite-time analysis of randomized allocation strategies for nonparametric bandits with delayed rewards (2023–). <br/> with Yuhong Yang. _ArXiv preprint_. <br/>
++ Predictions of damages from Atlantic tropical cyclones: a hierarchical Bayesian study on extremes (2023–). <br/> with Lindsey Dietz, Vishal Subedi, Auroop Ganguly, and Snigdhansu Chatterjee. _ArXiv preprint_. <a href="/assets/pdf/bayesstorms.pdf" target="_blank">(pdf)</a>, [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian) <br/>
 
 
 <!-- Ongoing work
