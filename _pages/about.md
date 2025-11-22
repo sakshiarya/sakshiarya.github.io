@@ -21,5 +21,6 @@ My main research interests are
 If you are interested in knowing more about my work, contact me by [email](mailto:sxa1351@case.edu). Students interested in doing research with me or working on the Capstone project, please make sure you reach out to me at least in the Fall semester prior to enrolling in the Capstone course. 
 
 ## News:
-- I'll be attending the [IISA conference](https://www.intindstat.org/conference2025/index) from June 12-15, 2025.
+- I will be attending [The Second Sydney Workshop on Mathematics of Data Science](https://sydney-mds.github.io/Sydney-MDS2025/) from December 10-12, 2025.
+
 
