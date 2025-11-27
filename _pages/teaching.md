@@ -60,6 +60,9 @@ School of Statistics
 ---
 
 ## Fun Statistics  
+
+A small collection of lighthearted statistics jokes and puns written by my students over the years.  I include these to celebrate their creativity and to remind us that statistics can be both rigorous and fun.
+
 <details>
   <summary><strong>Click to expand</strong></summary>
 
