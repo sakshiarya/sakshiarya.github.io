@@ -11,21 +11,31 @@ classes: wide
 author_profile: true  
 ---
 
-Sakshi Arya
-Email: sakshi.arya (at) case.edu
-Phone: +12163680470
+# Contact Information
 
-Mailing Address
-2145 Adelbert Rd
-Cleveland, OH 44106
+**Sakshi Arya**  
+Assistant Professor  
+Department of Mathematics, Applied Mathematics, and Statistics  
+Case Western Reserve University
+
+---
+
+## 📧 Email
+sakshi.arya (at) case.edu
+
+## 📞 Phone
++1 (216) 368-0470
+
+---
+
+## 📬 Mailing Address
+2145 Adelbert Road  
+Cleveland, OH 44106  
 USA
 
-Office Address
-205D,
-2145 Adelbert Rd
-Cleveland, OH 44106
+---
+
+## 🏢 Office
+205D, 2145 Adelbert Road  
+Cleveland, OH 44106  
 USA
-
-
-
-
