@@ -11,52 +11,99 @@ classes: wide
 author_profile: true  
 ---
 
+# Teaching
 
-Teaching
----------------
-__Current__
+## Current Courses
+---
 
-<ul>
-<li> STAT 244  (Statistical Theory with Applications II) - Fall 2025<br/>
-MAMS, Case Western Reserve University </li> <br/>
+**STAT 301 — Introduction to Probability for Statistics**  
+*Fall 2025*  
+Department of Mathematics, Applied Mathematics, and Statistics  
+Case Western Reserve University
 
+**STAT 244 — Statistical Theory with Applications II**  
+*Fall 2025*  
+Department of Mathematics, Applied Mathematics, and Statistics  
+Case Western Reserve University
 
-__Past__ <br/>
-<ul>
-<li> STAT 244  (Statistical Theory with Applications II) - Spring 2024, 2025 <br/>
-MAMS, Case Western Reserve University </li> <br/>
-<li> STAT 526  (Statistical Learning Theory) - Fall 2024 <br/>
-MAMS, Case Western Reserve University </li> <br/>
-<li> STAT 243  (Statistical Theory with Applications 1) - Fall 2023, 2024<br/>
-MAMS, Case Western Reserve University </li> <br/>
-<li> STAT 414 (Introduction to Probability) - Fall 2021, 2022<br/>
-Department of Statistics, Penn State University </li> 
-<li>STAT 4101 (Intro to Statistics)- 2019<br/>
-Department of Statistics, University of Minnesota </li>
-</ul> <br/>  
+---
 
-<!-- __Teaching Assistant__<br/>
-(Department of Statistics, University of California, Davis)  <br/>
-<ul>
-<li> STA 13 (Elementary Statistics) </li>
-<li> STA 108 (Regression Analysis) </li>
-<li> STA 145 (Bayesian Statistical Inference) </li>
-<li> STA 231A (Mathematical Statistics- Ph.D. level coursework) </li>
-<li> STA 131AB (Introduction to Mathematical Statistics) </li>
-<li> STA 200B (Mathematical Statistics- Masters level coursework) </li>
-<li> STA 106 (Analysis of Variance)</li>
-</ul><br/>  -->
+## Past Courses
+---
 
+### Case Western Reserve University
 
-<!-- __Mentoring__<br/>
-(Department of Statistics, University of California, Davis)  <br/>
+**STAT 244 — Statistical Theory with Applications II**  
+Spring 2024, Spring 2025
 
-<ul>
-<li> Thesis: "Functional data  analysis on the remaining life expectancy of the older population over time" (2022)<br/>
-Advised by Dr. Hans-Georg Müller </li><br/>
-<li> Thesis: "Inference on the dynamics of COVID-19 in India for the state of Kerala" (2020--2021)<br/>
-Advised by Dr. Debashis Paul </li>
-</ul> <br/>
+**STAT 526 — Statistical Learning Theory**  
+Fall 2024
 
+**STAT 243 — Statistical Theory with Applications I**  
+Fall 2023, Fall 2024
 
-Here are my <a href="/assets/pdf/Teaching_Statement.pdf" target="_blank">Teaching Statement</a> and <a href="/assets/pdf/Diversity_Statement.pdf" target="_blank">Diversity Statement</a>.<br> -->
+---
+
+### Penn State University  
+Department of Statistics
+
+**STAT 414 — Introduction to Probability**  
+Fall 2021, Fall 2022
+
+---
+
+### University of Minnesota  
+School of Statistics
+
+**STAT 4101 — Introduction to Statistics**  
+2019
+
+---
+
+## Fun Statistics  
+A small collection of lighthearted statistics jokes and puns written by my students over the years.  
+I include these to celebrate their creativity and to remind us that statistics can be both rigorous and fun.
+
+> *“Why did the statistician bring a ladder to class?  
+> Because the confidence intervals were too high!”*
+
+> *“Never trust graphing calculators.  
+> They're plotting something — I can feel it.”*
+
+> **Knock knock.**  
+> *Who's there?*  
+> **Geometric.**  
+> *Geometric who?*  
+> **Oh… I forgot.**
+
+> *“Two random variables were fighting — one was Geometric, and the other was his brother who was a bit too Hyper.”*
+
+> *“Why is a decimal so clever?  
+> Because it always has a point.”*
+
+> *“I tried to teach my cat the Greek alphabet,  
+> but we only got as far as \(\mu\).”*
+
+> **A random variable went on vacation. Where did it go?**  
+> *Monty Hall recommended Florida — but if it doesn’t like it, it can always switch!*  
+> *STATen Island*  
+> *The Bay (to work on Bayes’ theorem)*  
+> *The Carri“bayesian”*  
+> *The expected place*  
+> *The probabilicity*  
+> *The Democratic Republic of the Combo*
+
+> *“The sample asked the population:  
+> ‘Do you even lift?’  
+> Population said: ‘Only when stratified.’”*
+
+> *“Never trust atoms or p-values — they both make up everything.”*
+
+> *“A Bayesian walks into a bar.  
+> The bartender says, ‘Why the long face?’  
+> Bayesian replies, ‘Given that I’m in a bar, the posterior probability of that is pretty high.’”*
+
+> *“Statistician to student:  
+> ‘You have a 95\% chance of passing… if you study.’”*
+
+---
