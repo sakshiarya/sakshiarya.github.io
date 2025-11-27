@@ -57,47 +57,49 @@ School of Statistics
 
 ---
 
+---
+
 ## Fun Statistics  
 <details>
   <summary><strong>Click to expand</strong></summary>
 
-A small collection of lighthearted statistics jokes and puns written by my students over the years.  
-I include these to celebrate their creativity and to remind us that statistics can be both rigorous and fun.
-
 <br>
 
-> *“Why did the statistician bring a ladder to class?  
-> Because the confidence intervals were too high!”*
+<p><em>“Why did the statistician bring a ladder to class?  
+Because the confidence intervals were too high!”</em></p>
 
-> *“Never trust graphing calculators.  
-> They're plotting something — I can feel it.”*
+<p><em>“Never trust graphing calculators.  
+They're plotting something — I can feel it.”</em></p>
 
-> **Knock knock.**  
-> *Who's there?*  
-> **Geometric.**  
-> *Geometric who?*  
-> **Oh… I forgot.**
+<p><strong>Knock knock.</strong><br>
+<em>Who's there?</em><br>
+<strong>Geometric.</strong><br>
+<em>Geometric who?</em><br>
+<strong>Oh… I forgot.</strong></p>
 
-> *“Two random variables were fighting — one was Geometric, and the other was his brother who was a bit too Hyper.”*
+<p><em>“Two random variables were fighting — one was Geometric,  
+and the other was his brother who was a bit too Hyper.”</em></p>
 
-> *“Why is a decimal so clever?  
-> Because it always has a point.”*
+<p><em>“Two random variables were talking in a bar:  
+they thought they were being discrete,  
+but I heard them continuously.”</em></p>
 
-> *“I tried to teach my cat the Greek alphabet,  
-> but we only got as far as \(\mu\).”*
+<p><em>“Why is a decimal so clever?  
+Because it always has a point.”</em></p>
 
-> **A random variable went on vacation. Where did it go?**  
-> *Monty Hall recommended Florida — but if it doesn’t like it, it can always switch!*  
-> *STATen Island*  
-> *The Bay (to work on Bayes’ theorem)*  
-> *The Carri“bayesian”*  
-> *The expected place*  
-> *The probabilicity*  
-> *The Democratic Republic of the Combo*
+<p><em>“I tried to teach my cat the Greek alphabet,  
+but we only got as far as \( \mu \).”</em></p>
 
-> *“Two random variables were talking in a bar:  
-> they thought they were being discrete,  
-> but I heard them continuously.”*
+<p><strong>A random variable went on vacation. Where did it go?</strong><br>
+<em>Monty Hall recommended Florida — but if it doesn’t like it, it can always switch!</em><br>
+<em>STATen Island</em><br>
+<em>The Bay (to work on Bayes’ theorem)</em><br>
+<em>The Carri“bayesian”</em><br>
+<em>The expected place</em><br>
+<em>The probabilicity</em><br>
+<em>The Democratic Republic of the Combo</em></p>
 
+
+<br>
 
 </details>
