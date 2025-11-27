@@ -56,8 +56,7 @@ School of Statistics
 ---
 
 ## Fun Statistics  
-A small collection of lighthearted statistics jokes and puns written by my students over the years.  
-I include these to celebrate their creativity and to remind us that statistics can be both rigorous and fun.
+A small collection of lighthearted statistics jokes and puns written by my students over the years.  I include these to celebrate their creativity and to remind us that statistics can be both rigorous and fun.
 
 > *“Why did the statistician bring a ladder to class?  
 > Because the confidence intervals were too high!”*
@@ -76,14 +75,13 @@ I include these to celebrate their creativity and to remind us that statistics c
 > *“Why is a decimal so clever?  
 > Because it always has a point.”*
 
-> *“I tried to teach my cat the Greek alphabet,  
-> but we only got as far as \(\mu\).”*
+> *“I tried to teach my cat the Greek alphabet,  but we only got as far as \(\mu\).”*
 
-> **A random variable went on vacation. Where did it go?**  
-> *Monty Hall recommended Florida — but if it doesn’t like it, it can always switch!*  
+> **A random variable went on vacation. Where did it go?**   
 > *STATen Island*  
 > *The Bay (to work on Bayes’ theorem)*  
 > *The Carri“bayesian”*  
+> *Monty Hall recommended Florida — but if it doesn’t like it, it can always switch!* 
 > *The expected place*  
 > *The probabilicity*  
 > *The Democratic Republic of the Combo*
