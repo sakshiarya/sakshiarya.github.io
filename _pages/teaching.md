@@ -21,11 +21,6 @@ author_profile: true
 Department of Mathematics, Applied Mathematics, and Statistics  
 Case Western Reserve University
 
-**STAT 244 — Statistical Theory with Applications II**  
-*Fall 2025*  
-Department of Mathematics, Applied Mathematics, and Statistics  
-Case Western Reserve University
-
 ---
 
 ## Past Courses
@@ -93,17 +88,6 @@ I include these to celebrate their creativity and to remind us that statistics c
 > *The probabilicity*  
 > *The Democratic Republic of the Combo*
 
-> *“The sample asked the population:  
-> ‘Do you even lift?’  
-> Population said: ‘Only when stratified.’”*
 
-> *“Never trust atoms or p-values — they both make up everything.”*
-
-> *“A Bayesian walks into a bar.  
-> The bartender says, ‘Why the long face?’  
-> Bayesian replies, ‘Given that I’m in a bar, the posterior probability of that is pretty high.’”*
-
-> *“Statistician to student:  
-> ‘You have a 95\% chance of passing… if you study.’”*
 
 ---
