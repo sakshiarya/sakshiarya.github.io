@@ -11,7 +11,6 @@ classes: wide
 author_profile: true  
 ---
 
-# About Me
 
 I am an Assistant Professor of Statistics in the Department of Mathematics, Applied Mathematics, and Statistics at Case Western Reserve University. I received my PhD in Statistics from the University of Minnesota in 2020, advised by [Prof. Yuhong Yang](http://users.stat.umn.edu/~yangx374/).
 
