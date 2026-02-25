@@ -15,10 +15,11 @@ author_profile: true
 
 ## Published / Accepted
 ---
-**Non-Linear Model-Based Sequential Decision-Making in Agriculture.** (2025)  
+**Non-Linear Model-Based Sequential Decision-Making in Agriculture.**   
 With Wentao Lin.  
 *Environmental Research Communications, 2026.* 
 [PDF](/assets/pdf/NonlinearAg.pdf) · [arXiv](https://arxiv.org/abs/2509.01924)
+
 ---
 
 **Batched Nonparametric Bandits via k-Nearest Neighbor UCB.**  
