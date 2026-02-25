@@ -15,6 +15,11 @@ author_profile: true
 
 ## Published / Accepted
 ---
+**Non-Linear Model-Based Sequential Decision-Making in Agriculture.** (2025)  
+With Wentao Lin.  
+*Environmental Research Communications, 2026.* 
+[PDF](/assets/pdf/NonlinearAg.pdf) · [arXiv](https://arxiv.org/abs/2509.01924)
+---
 
 **Batched Nonparametric Bandits via k-Nearest Neighbor UCB.**  
 Sakshi Arya.  
@@ -52,13 +57,6 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 ---
 
 # Preprints
----
-
-**Non-Linear Model-Based Sequential Decision-Making in Agriculture.** (2025)  
-With Wentao Lin.  
-*arXiv preprint.*  
-[arXiv](https://arxiv.org/abs/2509.01924)
-
 ---
 
 **Semi-Parametric Batched Global Multi-Armed Bandits with Covariates.** (2025)  

@@ -30,5 +30,4 @@ Students interested in pursuing research or a Capstone project with me should re
 
 ## News
 
-- I will be attending [The Second Sydney Workshop on Mathematics of Data Science](https://sydney-mds.github.io/Sydney-MDS2025/) from December 10–12, 2025. 
-- I will be attending the [CFE-CMStatistics]( https://www.cmstatistics.org/CFECMStatistics2025/) conference in London from December 13-15, 2025.
+- I will participating in some workshops at the Long Program "Theoretical Advances in Reinforcement Learning and Control" at IMSI.
