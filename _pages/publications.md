@@ -18,6 +18,7 @@ author_profile: true
 **Non-Linear Model-Based Sequential Decision-Making in Agriculture.**   
 With Wentao Lin.  
 *Environmental Research Communications, 2026.* 
+
 [PDF](/assets/pdf/NonlinearAg.pdf) · [arXiv](https://arxiv.org/abs/2509.01924)
 
 ---
