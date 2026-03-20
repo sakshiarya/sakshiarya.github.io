@@ -19,7 +19,7 @@ author_profile: true
 With Wentao Lin.  
 *Environmental Research Communications, 2026.* 
 
-[PDF](/assets/pdf/NonlinearAg.pdf) · [arXiv](https://arxiv.org/abs/2509.01924)
+[PDF](https://iopscience.iop.org/article/10.1088/2515-7620/ae489e) · [arXiv](https://arxiv.org/abs/2509.01924)
 
 ---
 
