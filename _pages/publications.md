@@ -61,6 +61,13 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 # Preprints
 ---
 
+**Kernel Single-Index Bandits: Estimation, Inference, and Learning.** (2026)  
+With Satarupa Bhattacharjee and Bharath K. Sriperumbudur.  
+*arXiv preprint.*  
+[PDF](/assets/pdf/KSIBarXiv.pdf)· [arXiv](https://arxiv.org/abs/2603.18938)
+
+---
+
 **Semi-Parametric Batched Global Multi-Armed Bandits with Covariates.** (2025)  
 With Hyebin Song.  
 *arXiv preprint.*  
