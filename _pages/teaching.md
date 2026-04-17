@@ -15,9 +15,9 @@ author_profile: true
 
 ## Current Courses
 ---
-
-**STAT 301 — Introduction to Probability for Statistics**  
-*Fall 2025*  
+**STAT 326/426 — Multivariate Statistics and Data Mining**  
+*Spring 2026* 
+ 
 Department of Mathematics, Applied Mathematics, and Statistics  
 Case Western Reserve University
 
@@ -27,6 +27,8 @@ Case Western Reserve University
 ---
 
 ### Case Western Reserve University
+**STAT 301 — Introduction to Probability for Statistics**  
+Fall 2025
 
 **STAT 244 — Statistical Theory with Applications II**  
 Spring 2024, Spring 2025
