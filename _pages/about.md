@@ -15,7 +15,7 @@ author_profile: true
 I am an Assistant Professor of Statistics in the Department of Mathematics, Applied Mathematics, and Statistics at Case Western Reserve University.
 
 
-My research broadly focuses on the theory and methodology of modern statistical learning. In particular, I am interested in:
+My research develops theoretical and methodological tools for learning and decision-making from data, particularly in sequential settings.  In particular, I am interested in:
 
 - sequential decision-making problems, especially contextual bandits,  
 - nonparametric statistics and kernel methods,  
@@ -32,9 +32,8 @@ I am interested in applications to scientific and societal decision-making probl
 
 
 ---
-
 ## News
-- February 2026: Super excited about my first paper with my undergraduate student, Wentao Lin, on agricultural decision making which got accepted to "Environmental Research Communications".
+- February 2026: My first paper with my undergraduate student, Wentao Lin, on agricultural decision-making was accepted to *Environmental Research Communications*.
 - Spring 2026: I will participate in workshops associated with the IMSI Long Program Theoretical Advances in Reinforcement Learning and Control.
 
 
