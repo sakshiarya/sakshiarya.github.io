@@ -12,9 +12,8 @@ author_profile: true
 ---
 
 
-I am an Assistant Professor of Statistics in the Department of Mathematics, Applied Mathematics, and Statistics at Case Western Reserve University. I received my PhD in Statistics from the University of Minnesota in 2020, advised by [Prof. Yuhong Yang](http://users.stat.umn.edu/~yangx374/).
+I am an Assistant Professor of Statistics in the Department of Mathematics, Applied Mathematics, and Statistics at Case Western Reserve University.
 
-Before joining CWRU, I was a postdoctoral scholar at Penn State University, where I worked at the intersection of sequential decision-making and kernel methods with [Prof. Bharath Sriperumbudur](https://bharathsv.github.io/index.html). Prior to that, I spent time as a postdoctoral researcher in 2021 studying climate and extreme weather modeling for hurricanes with [Prof. Snigdhansu Chatterjee](http://ansuchatterjee.com/).
 
 My research broadly focuses on the theory and methodology of modern statistical learning. In particular, I am interested in:
 
@@ -23,11 +22,23 @@ My research broadly focuses on the theory and methodology of modern statistical 
 - statistical learning theory,  
 - inverse problems and machine learning.
 
-If you are interested in learning more about my work, feel free to contact me by [email](mailto:sxa1351@case.edu).  
-Students interested in pursuing research or a Capstone project with me should reach out **early in the Fall semester** prior to enrolling in the Capstone course.
+I am interested in applications to scientific and societal decision-making problems, particularly in settings involving uncertainty and sequential data.
+
+
+
+## Students
+
+- Students interested in pursuing research or a Capstone project with me should contact me early in the Fall semester prior to enrolling in the Capstone course.
+
 
 ---
 
 ## News
+- February 2026: Super excited about my first paper with my undergraduate student, Wentao Lin, on agricultural decision making which got accepted to "Environmental Research Communications".
+- Spring 2026: I will participate in workshops associated with the IMSI Long Program Theoretical Advances in Reinforcement Learning and Control.
 
-- I will participating in some workshops at the Long Program "Theoretical Advances in Reinforcement Learning and Control" at IMSI.
+
+
+## Contact
+
+For research, collaboration, or student inquiries, please contact me by [email](mailto:sxa1351@case.edu)l: sakshi.arya@case.edu
