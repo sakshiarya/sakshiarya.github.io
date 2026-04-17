@@ -40,4 +40,4 @@ I am interested in applications to scientific and societal decision-making probl
 
 ## Contact
 
-For research, collaboration, or student inquiries, please contact me by [email] (mailto:sxa1351@case.edu) at sakshi.arya@case.edu
+For research, collaboration, or student inquiries, please contact me at [sakshi.arya@case.edu](mailto:sakshi.arya@case.edu).
