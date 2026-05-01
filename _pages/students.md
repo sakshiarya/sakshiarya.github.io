@@ -13,41 +13,35 @@ author_profile: true
 
 # Students & Mentoring
 
-I regularly mentor undergraduate and graduate students on independent studies, senior research projects, and Capstone projects. I usually work with a small number of students each year on problems related to statistical learning, sequential decision-making, and data-driven scientific applications.
+I work with a small number of undergraduate and graduate students each year on research projects, senior research, and Capstone projects. My mentoring focuses on problems in statistical learning and sequential decision-making, often motivated by real-world scientific applications.
+
+## PhD Opportunities
+
+I am actively seeking PhD students interested in statistical learning, nonparametric statistics, contextual bandits, and sequential decision-making.
+
+Prospective students with a strong background in probability, statistics, or machine learning, and an interest in both theory and computation, are encouraged to reach out.
 
 ## Research Areas
 
-Students interested in working with me may explore topics such as:
+Projects are typically centered around:
 
-- contextual bandits and reinforcement learning
-- nonparametric statistics and kernel methods
-- statistical learning theory
-- sequential decision-making under uncertainty
-- data-driven decision-making for agriculture, climate, and environmental systems
-- applications of statistical and machine learning methods to scientific problems
+- contextual bandits and reinforcement learning  
+- nonparametric and kernel methods  
+- statistical learning theory  
+- sequential decision-making under uncertainty  
+- applications to agriculture, climate, and environmental systems  
 
-## What Working With Me Looks Like
+## Working With Me
 
-Projects typically involve some combination of:
+Projects usually involve a mix of theoretical and computational work, including reading research papers, developing methods, and implementing ideas in R or Python.
 
-- reading and discussing research papers
-- developing theoretical and methodological understanding
-- implementing methods in R or Python
-- running simulations or analyzing real data
-- preparing written reports, presentations, or research-style manuscripts
+I expect students to be engaged, curious, and willing to work through open-ended problems.
 
-I expect students to take initiative, meet regularly, and engage seriously with both the mathematical and computational aspects of the project.
+## Capstone and Independent Study
 
-## Capstone and Independent Study Projects
+Students interested in Capstone or independent study projects should contact me early, ideally in the Fall semester prior to enrollment.
 
-Students interested in pursuing a Capstone project or independent study with me should contact me early, ideally in the Fall semester prior to enrolling in the Capstone course.
-
-When reaching out, please include:
-
-- a brief description of your interests
-- relevant coursework
-- any prior research, coding, or data analysis experience
-- your CV or resume, if available
+A short email describing your interests and relevant background is sufficient.
 
 ---
 
