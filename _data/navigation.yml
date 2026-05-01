@@ -9,6 +9,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Students & Mentoring"
+    url: /students/  
   - title: "Contact"
     url: /contact/
     
