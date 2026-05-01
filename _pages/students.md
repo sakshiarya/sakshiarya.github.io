@@ -47,16 +47,11 @@ A short email describing your interests and relevant background is sufficient.
 
 # Current and Former Students
 
-## Independent Study
+## 2026
 
-**Wentao Lin**  
-Independent Study, Spring 2024  
-*Current Position: Data Scientist at CTrees*  
-*Next: MS in Computer Science, Georgia Tech, 2026–2028*
-
-**Hao Zheng**  
-Independent Study, Fall 2025  
-*Next: MS in Statistics and Data Science, Yale University, starting Fall 2026*
+**Yixue Wang**  
+Senior Capstone Project, Spring 2026  
+*Next: MS in Data Science, Northeastern University, starting Fall 2026*
 
 **Alexander Meylikhov**  
 Independent Study, Spring 2026  
@@ -64,7 +59,7 @@ Independent Study, Spring 2026
 
 ---
 
-## Senior Capstone Projects
+## 2025
 
 **Zachary LeClaire**  
 Senior Capstone Project, Spring 2025  
@@ -74,15 +69,20 @@ Senior Capstone Project, Spring 2025
 Senior Capstone Project, Spring 2025  
 *Current Position: MS in Data Science, Columbia University*
 
-**Yixue Wang**  
-Senior Capstone Project, Spring 2026  
-*Next: MS in Data Science, Northeastern University, starting Fall 2026*
-
----
-
-## Senior Research Projects
+**Hao Zheng**  
+Independent Study, Fall 2025  
+*Next: MS in Statistics and Data Science, Yale University, starting Fall 2026*
 
 **Ruoyu Shao**  
 Senior Research Project, Spring 2025
+
+---
+
+## 2024
+
+**Wentao Lin**  
+Independent Study, Spring 2024  
+*Current Position: Data Scientist at CTrees*  
+*Next: MS in Computer Science, Georgia Tech, 2026–2028*
 
 ---
