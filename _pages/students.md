@@ -75,6 +75,7 @@ Independent Study, Fall 2025
 
 **Ruoyu Shao**  
 Senior Research Project, Spring 2025
+*Current Position: MS in Information Science, University of Michigan*
 
 ---
 
