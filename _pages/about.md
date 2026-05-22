@@ -35,9 +35,10 @@ I am interested in advising PhD students and collaborating with undergraduate an
 
 ## News
 - June 2026: I will be at The 9th International Workshop in Sequential Methodologies. 
+- May 2026: My paper with Prof. Ansu Chatterjee on hierarchical Bayesian modeling for hurricane damages got accepted for publication at Data Science in Science.
 - May 2026: I will be attending IMS/ASA Spring Research Conference (SRC) 2026 at Clemson.
-- February 2026: My first paper with my undergraduate student, Wentao Lin, on agricultural decision-making was accepted to *Environmental Research Communications*.
-- Spring 2026: I will participate in workshops associated with the IMSI Long Program Theoretical Advances in Reinforcement Learning and Control.
+
+
 
 
 
