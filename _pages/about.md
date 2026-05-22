@@ -26,9 +26,10 @@ I am interested in applications to scientific and societal decision-making probl
 
 
 
-## Students
+## Prospective Students
 
-- Students interested in pursuing research or a Capstone project with me should contact me early in the Fall semester prior to enrolling in the Capstone course.
+I am interested in advising PhD students and collaborating with undergraduate and master’s students on research projects in statistical learning, sequential decision-making, contextual bandits/reinforcement learning, and nonparametric methods. Students interested in working with me should feel free to email me with a brief description of their interests and background.
+
 
 
 ---
