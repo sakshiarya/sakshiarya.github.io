@@ -74,7 +74,7 @@ Independent Study, Fall 2025
 *Next: MS in Statistics and Data Science, Yale University, starting Fall 2026*
 
 **Ruoyu Shao**  
-Senior Research Project, Spring 2025
+Senior Research Project, Spring 2025 
 *Current Position: MS in Information Science, University of Michigan*
 
 ---

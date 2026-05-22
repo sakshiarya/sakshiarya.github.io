@@ -15,6 +15,13 @@ author_profile: true
 
 ## Published / Accepted
 ---
+**Predictions of damages from Atlantic tropical cyclones in two scales: a hierarchical Bayesian study.**   
+With Lindsey Dietz, Vishal Subedi, Auroop Ganguly, and Snigdhansu Chatterjee.  
+*Data Science in Science, 2026.*  
+[PDF](/assets/pdf/bayesstorms.pdf)· [arXiv](https://arxiv.org/abs/2208.07899)  · [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian)
+
+
+---
 **Non-Linear Model-Based Sequential Decision-Making in Agriculture.**   
 With Wentao Lin.  
 *Environmental Research Communications, 2026.* 
@@ -70,7 +77,7 @@ With Satarupa Bhattacharjee and Bharath K. Sriperumbudur.
 
 **Semi-Parametric Batched Global Multi-Armed Bandits with Covariates.** (2025)  
 With Hyebin Song.  
-*arXiv preprint.*  
+*Under minor revision.*  
 [PDF](/assets/pdf/SIRBandits.pdf)· [arXiv](https://arxiv.org/abs/2503.00565)
 
 ---
@@ -86,9 +93,3 @@ With Bharath K. Sriperumbudur.
 With Yuhong Yang.  
 *arXiv preprint.*
 
----
-
-**Predictions of Damages from Atlantic Tropical Cyclones: A Hierarchical Bayesian Study on Extremes.** (2023–)  
-With Lindsey Dietz, Vishal Subedi, Auroop Ganguly, and Snigdhansu Chatterjee.  
-*arXiv preprint.*  
-[PDF](/assets/pdf/bayesstorms.pdf)· [arXiv](https://arxiv.org/abs/2208.07899)  · [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian)
