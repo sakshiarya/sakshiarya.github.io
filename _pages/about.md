@@ -34,9 +34,9 @@ I am interested in advising PhD students and collaborating with undergraduate an
 
 
 ## News
-- June 2026: I will be at The 9th International Workshop in Sequential Methodologies. 
+- June 2026: I will be at The 9th International Workshop in Sequential Methodologies from June 1-June 4th in DC. 
 - May 2026: My paper with Prof. Ansu Chatterjee on hierarchical Bayesian modeling for hurricane damages got accepted for publication at Data Science in Science.
-- May 2026: I will be attending IMS/ASA Spring Research Conference (SRC) 2026 at Clemson.
+- May 2026: I will be attending IMS/ASA Spring Research Conference (SRC) 2026 at Clemson from May 26-28.
 
 
 
