@@ -18,7 +18,7 @@ author_profile: true
 **Predictions of damages from Atlantic tropical cyclones in two scales: a hierarchical Bayesian study.**   
 With Lindsey Dietz, Vishal Subedi, Auroop Ganguly, and Snigdhansu Chatterjee.  
 *Data Science in Science, 2026.*  
-[PDF](/assets/pdf/bayesstorms.pdf)· [arXiv](https://arxiv.org/abs/2208.07899)  · [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian)
+[PDF](https://www.tandfonline.com/doi/full/10.1080/26941899.2026.2676418)· [arXiv](https://arxiv.org/abs/2208.07899)  · [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian)
 
 
 ---
