@@ -68,6 +68,12 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 # Preprints
 ---
 
+**Near-Optimal Nitrogen Recommendations for Precision Agriculture via Sequential Screening and Hierarchical Refinement.** (2026)
+With Hossein Moradi Rekabdarkolaee and Abdul-Nasah Soale.
+
+---
+
+
 **Kernel Single-Index Bandits: Estimation, Inference, and Learning.** (2026)  
 With Satarupa Bhattacharjee and Bharath K. Sriperumbudur.  
 *arXiv preprint.*  
