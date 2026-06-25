@@ -69,7 +69,6 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 ---
 
 **Near-Optimal Nitrogen Recommendations for Precision Agriculture via Sequential Screening and Hierarchical Refinement.** (2026)
-
 With Hossein Moradi Rekabdarkolaee and Abdul-Nasah Soale.
 
 ---
@@ -82,7 +81,7 @@ With Satarupa Bhattacharjee and Bharath K. Sriperumbudur.
 
 ---
 
-**Semi-Parametric Batched Global Multi-Armed Bandits with Covariates.** (2025)  
+**Batched Single-Index Global Multi-Armed Bandits with Covariates.** (2025)  
 With Hyebin Song.  
 *Under minor revision.*  
 [PDF](/assets/pdf/SIRBandits.pdf)· [arXiv](https://arxiv.org/abs/2503.00565)
