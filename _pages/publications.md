@@ -69,6 +69,7 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 ---
 
 **Near-Optimal Nitrogen Recommendations for Precision Agriculture via Sequential Screening and Hierarchical Refinement.** (2026)
+
 With Hossein Moradi Rekabdarkolaee and Abdul-Nasah Soale.
 
 ---
