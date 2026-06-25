@@ -25,18 +25,22 @@ My research develops theoretical and methodological tools for learning and decis
 I am interested in applications to scientific and societal decision-making problems, particularly in settings involving uncertainty and sequential data.
 
 ## Academic background
+
 I received my PhD in Statistics from the University of Minnesota under the supervision of Prof. Yuhong Yang. Before joining Case Western Reserve University, I held postdoctoral positions at Penn State University, the University of Minnesota, and the University of Chicago. Prior to graduate school, I completed a master’s degree in mathematics at the Tata Institute of Fundamental Research and a bachelor’s degree in mathematics from the University of Delhi.
 
 
 ## Prospective Students
+
+Starting 2025, we have now offer a PhD in Statistics! Here are the details of the [program and application procedure](https://mathstats.case.edu/phd-in-statistics/). 
 I am interested in advising PhD students and collaborating with undergraduate and master’s students on research projects in statistical learning, sequential decision-making, contextual bandits/reinforcement learning, and nonparametric methods. Students interested in working with me should feel free to email me with a brief description of their interests and background.
 
 
 
 ## News
-- June 2026: I will be at The 9th International Workshop in Sequential Methodologies from June 1-June 4th in DC. 
-- May 2026: My paper with Prof. Ansu Chatterjee on hierarchical Bayesian modeling for hurricane damages got accepted for publication at Data Science in Science.
-- May 2026: I will be attending IMS/ASA Spring Research Conference (SRC) 2026 at Clemson from May 26-28.
+
+- July 2026:  I will attending the SIAM Annual meeting and the Life Sciences conference in Cleveland.
+
+- August 2026: I will be at JSM in Boston. 
 
 
 
