@@ -68,6 +68,13 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 # Preprints
 ---
 
+**An Efficient Bayesian Framework for Uncertainty Quantification in Nonlinear Imaging Inverse Problems.** (2026)
+With Anuj Abhishek and Madhu Gupta
+[arXiv](https://arxiv.org/pdf/2607.10817v1)
+
+
+---
+
 **Near-Optimal Nitrogen Recommendations for Precision Agriculture via Sequential Screening and Hierarchical Refinement.** (2026)
 With Hossein Moradi Rekabdarkolaee and Abdul-Nasah Soale.
 [arXiv](https://arxiv.org/abs/2606.31661)
