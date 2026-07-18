@@ -13,7 +13,7 @@ author_profile: true
 
 # Students & Mentoring
 
-I work with a small number of undergraduate and graduate students each year on research projects, senior research, and Capstone projects. My mentoring focuses on problems in statistical learning and sequential decision-making, often motivated by real-world scientific applications.
+I work with undergraduate and graduate students each year on research projects, senior research, and Capstone projects. My mentoring focuses on problems in statistical learning and sequential decision-making, often motivated by real-world scientific applications.
 
 ## PhD Opportunities
 
