@@ -70,7 +70,7 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 
 **An Efficient Bayesian Framework for Uncertainty Quantification in Nonlinear Imaging Inverse Problems.** (2026)
 With Anuj Abhishek and Madhu Gupta
-[arXiv](https://arxiv.org/pdf/2607.10817v1)
+[arXiv](https://arxiv.org/pdf/2607.10817v1) · [Code](https://github.com/sakshiarya/bayesian-uq-qpat-eit)
 
 
 ---
