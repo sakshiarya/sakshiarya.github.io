@@ -24,7 +24,7 @@ With Lindsey Dietz, Vishal Subedi, Auroop Ganguly, and Snigdhansu Chatterjee.
 
 ---
 **Non-Linear Model-Based Sequential Decision-Making in Agriculture.**   
-With Wentao Lin*.  
+With Wentao Lin\*.  
 *Environmental Research Communications, 2026.* 
 
 [PDF](https://iopscience.iop.org/article/10.1088/2515-7620/ae489e) · [arXiv](https://arxiv.org/abs/2509.01924)
@@ -70,8 +70,8 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 
 ---
 **Beyond Landmark Extraction: A Framework for Robust Geometric
-Feature Construction in Structured Image Classification. ** (2026)
-With Shiv Mauree*
+Feature Construction in Structured Image Classification.** (2026)
+With Shiv Mauree\*
 [arXiv](https://arxiv.org/pdf/2609.00634)
 
 
