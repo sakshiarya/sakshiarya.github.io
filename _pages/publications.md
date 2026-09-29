@@ -69,6 +69,13 @@ With Zach W. Almquist, Li Zeng, and Emma Spiro.
 # Preprints
 
 ---
+**Elicitation and Decision Geometry in Single-Index Bandits**(2026)
+With Cheng Soon Ong
+[arXiv](https://arxiv.org/pdf/2609.35622)
+
+
+
+---
 **Beyond Landmark Extraction: A Framework for Robust Geometric
 Feature Construction in Structured Image Classification.** (2026)
 With Shiv Mauree\*
