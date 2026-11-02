@@ -11,7 +11,7 @@ classes: wide
 author_profile: true
 ---
 
-*Student co-author at the time of the work.
+\* Student co-author at the time of the work.
 
 ## Preprints and Manuscripts Under Review
 
@@ -54,40 +54,40 @@ author_profile: true
 
 **Kernel \(\epsilon\)-Greedy for Multi-Armed Bandits with Covariates**  
 **Sakshi Arya**, Bharath K. Sriperumbudur.  
-*Electronic Journal of Statistics*, accepted for publication, 2026.  
+*Electronic Journal of Statistics*, accepted for publication (2026).  
 [PDF](/assets/pdf/kernel_eps_greedy.pdf) · [arXiv](https://arxiv.org/abs/2306.17329)
 
-**Predictions of Damages from Atlantic Tropical Cyclones in Two Scales: A Hierarchical Bayesian Study** (2026)  
+**Predictions of Damages from Atlantic Tropical Cyclones in Two Scales: A Hierarchical Bayesian Study**  
 **Sakshi Arya**, Lindsey Dietz, Vishal Subedi, Auroop Ganguly, and Snigdhansu Chatterjee.  
 *Data Science in Science*, 2026.  
 [PDF](https://www.tandfonline.com/doi/full/10.1080/26941899.2026.2676418) · [arXiv](https://arxiv.org/abs/2208.07899) · [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian)
 
-**Non-Linear Model-Based Sequential Decision-Making in Agriculture** (2026)  
+**Non-Linear Model-Based Sequential Decision-Making in Agriculture**  
 **Sakshi Arya**, Wentao Lin\*.  
 *Environmental Research Communications*, 2026.  
 [PDF](https://iopscience.iop.org/article/10.1088/2515-7620/ae489e) · [arXiv](https://arxiv.org/abs/2509.01924)
 
-**Batched Nonparametric Bandits via k-Nearest Neighbor UCB** (2025)  
+**Batched Nonparametric Bandits via k-Nearest Neighbor UCB**  
 **Sakshi Arya**.  
 *Transactions of Machine Learning Research (TMLR)*, 2025.  
 [PDF](/assets/pdf/CameraReadyVersionBankUCB.pdf) · [arXiv](https://arxiv.org/abs/2505.10498)
 
-**Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise** (2023)  
+**Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise**  
 **Sakshi Arya**, Anuj Abhishek.  
 *Sankhya A*, 85, 1127–1155 (2023).  
 [PDF](/assets/pdf/SankhyaA_AA_SA.pdf) · [arXiv](https://arxiv.org/abs/2011.06887)
 
-**To Update or Not to Update? Delayed Nonparametric Bandits with Randomized Allocation** (2021)  
+**To Update or Not to Update? Delayed Nonparametric Bandits with Randomized Allocation**  
 **Sakshi Arya**, Yuhong Yang.  
 *Stat*, 10:e366 (2021).  
 [PDF](/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf) · [arXiv](https://arxiv.org/pdf/2005.13078)
 
-**Randomized Allocation with Nonparametric Estimation for Contextual Multi-Armed Bandits with Delayed Rewards** (2020)  
+**Randomized Allocation with Nonparametric Estimation for Contextual Multi-Armed Bandits with Delayed Rewards**  
 **Sakshi Arya**, Yuhong Yang.  
 *Statistics & Probability Letters*, 164, 108818 (2020).  
 [PDF](/assets/pdf/SPLpaperpublished-main.pdf) · [arXiv](https://arxiv.org/abs/1902.00819)
 
-**Unbiased Sampling of Users from (Online) Activity Data** (2019)  
+**Unbiased Sampling of Users from (Online) Activity Data**  
 **Sakshi Arya**, Zach W. Almquist, Li Zeng, and Emma Spiro.  
 *Field Methods*, 31(1), 23–38 (2019).  
 [PDF](/assets/pdf/FieldMethods.pdf)

@@ -38,9 +38,9 @@ I am interested in advising PhD students and collaborating with undergraduate an
 
 ## News
 
-- July 2026:  I will attending the SIAM Annual meeting and the Life Sciences conference in Cleveland.
+-    November 2026: Excited to share that my paper with Bharath Sriperumbudur, stemming from my postdoctoral research, has been accepted for publication in the Electronic Journal of Statistics!
 
-- August 2026: I will be at JSM in Boston. 
+-     November 2026: I will be attending the SIAM Conference on Mathematics of Data Science in Salt Lake City. 
 
 
 
