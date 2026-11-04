@@ -12,56 +12,65 @@ author_profile: true
 ---
 
 <style>
-/* Elegant, compact academic publication list */
+/* Minimalist academic publications page */
 
 .publication-list {
   font-size: 0.94em;
   line-height: 1.45;
 }
 
+/* Section headings */
 .publication-list h2 {
-  font-size: 1.25em;
-  font-weight: 600;
-  margin-top: 1.8em;
-  margin-bottom: 0.85em;
-  padding-bottom: 0.3em;
+  font-size: 1.2em;
+  font-weight: 500;
+  margin-top: 1.6em;
+  margin-bottom: 0.9em;
+  padding-bottom: 0.35em;
   border-bottom: 1px solid #e5e5e5;
 }
 
+/* Individual publications */
 .publication-list .publication {
-  margin-bottom: 0.95em;
+  margin-bottom: 0.85em;
 }
 
+/* Paper titles: regular weight */
 .publication-list .pub-title {
-  font-weight: 600;
+  font-weight: 400;
+  font-size: 1em;
   line-height: 1.4;
-  margin-bottom: 0.1em;
+  color: inherit;
+  margin-bottom: 0.12em;
 }
 
+/* Authors, journals, and links */
 .publication-list .pub-details {
-  font-size: 0.94em;
-  line-height: 1.45;
-  color: #555;
+  font-size: 0.88em;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #666;
 }
 
 .publication-list .pub-details em {
   color: inherit;
 }
 
+/* Subtle publication links */
 .publication-list .pub-details a {
-  text-decoration: none;
-  border-bottom: 1px solid #ccc;
   color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid #bbb;
 }
 
 .publication-list .pub-details a:hover {
   border-bottom-color: currentColor;
 }
 
+/* Student coauthor note */
 .publication-list .pub-note {
   font-size: 0.85em;
   color: #777;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.2em;
 }
 </style>
 
