@@ -12,65 +12,189 @@ author_profile: true
 ---
 
 <style>
-.publication-list p {
-  margin-bottom: 0.7em !important;
+/* Elegant, compact academic publication list */
+
+.publication-list {
+  font-size: 0.94em;
   line-height: 1.45;
 }
 
 .publication-list h2 {
-  margin-top: 1.5em;
-  margin-bottom: 0.65em;
+  font-size: 1.25em;
+  font-weight: 600;
+  margin-top: 1.8em;
+  margin-bottom: 0.85em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.publication-list .publication {
+  margin-bottom: 0.95em;
+}
+
+.publication-list .pub-title {
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.1em;
+}
+
+.publication-list .pub-details {
+  font-size: 0.94em;
+  line-height: 1.45;
+  color: #555;
+}
+
+.publication-list .pub-details em {
+  color: inherit;
+}
+
+.publication-list .pub-details a {
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+  color: inherit;
+}
+
+.publication-list .pub-details a:hover {
+  border-bottom-color: currentColor;
+}
+
+.publication-list .pub-note {
+  font-size: 0.85em;
+  color: #777;
+  margin-bottom: 1.5em;
 }
 </style>
 
-<div class="publication-list" markdown="1">
+<div class="publication-list">
 
-\* Student co-author at the time of the work.
+<p class="pub-note">* Student co-author at the time of the work.</p>
 
-## Peer-Reviewed Publications (Published or Accepted)
+<h2>Peer-Reviewed Publications</h2>
 
-**Kernel \(\epsilon\)-Greedy for Contextual Bandits**  
-With Bharath K. Sriperumbudur. *Electronic Journal of Statistics*, accepted for publication (2026). [PDF](/assets/pdf/kernel_eps_greedy.pdf) · [arXiv](https://arxiv.org/abs/2306.17329)
+<div class="publication">
+  <div class="pub-title">Kernel ε-Greedy for Multi-Armed Bandits with Covariates</div>
+  <div class="pub-details">
+    Bharath K. Sriperumbudur · <em>Electronic Journal of Statistics</em>, accepted (2026) ·
+    <a href="/assets/pdf/kernel_eps_greedy.pdf">PDF</a> ·
+    <a href="https://arxiv.org/abs/2306.17329">arXiv</a>
+  </div>
+</div>
 
-**Predictions of Damages from Atlantic Tropical Cyclones in Two Scales: A Hierarchical Bayesian Study**  
-With Lindsey Dietz, Vishal Subedi, Auroop Ganguly, and Snigdhansu Chatterjee. *Data Science in Science*, 2026. [PDF](https://www.tandfonline.com/doi/full/10.1080/26941899.2026.2676418) · [arXiv](https://arxiv.org/abs/2208.07899) · [Code](https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian)
+<div class="publication">
+  <div class="pub-title">Predictions of Damages from Atlantic Tropical Cyclones in Two Scales: A Hierarchical Bayesian Study</div>
+  <div class="pub-details">
+    Lindsey Dietz, Vishal Subedi, Auroop Ganguly, Snigdhansu Chatterjee ·
+    <em>Data Science in Science</em> (2026) ·
+    <a href="https://www.tandfonline.com/doi/full/10.1080/26941899.2026.2676418">PDF</a> ·
+    <a href="https://arxiv.org/abs/2208.07899">arXiv</a> ·
+    <a href="https://github.com/sakshiarya/Tropical_Hurricane_Damages_Bayesian">Code</a>
+  </div>
+</div>
 
-**Non-Linear Model-Based Sequential Decision-Making in Agriculture**  
-With Wentao Lin\*. *Environmental Research Communications*, 2026. [PDF](https://iopscience.iop.org/article/10.1088/2515-7620/ae489e) · [arXiv](https://arxiv.org/abs/2509.01924)
+<div class="publication">
+  <div class="pub-title">Non-Linear Model-Based Sequential Decision-Making in Agriculture</div>
+  <div class="pub-details">
+    Wentao Lin* · <em>Environmental Research Communications</em> (2026) ·
+    <a href="https://iopscience.iop.org/article/10.1088/2515-7620/ae489e">PDF</a> ·
+    <a href="https://arxiv.org/abs/2509.01924">arXiv</a>
+  </div>
+</div>
 
-**Batched Nonparametric Bandits via k-Nearest Neighbor UCB**  
-**Sakshi Arya**. *Transactions of Machine Learning Research (TMLR)*, 2025. [PDF](/assets/pdf/CameraReadyVersionBankUCB.pdf) · [arXiv](https://arxiv.org/abs/2505.10498)
+<div class="publication">
+  <div class="pub-title">Batched Nonparametric Bandits via k-Nearest Neighbor UCB</div>
+  <div class="pub-details">
+    Sakshi Arya · <em>Transactions of Machine Learning Research (TMLR)</em> (2025) ·
+    <a href="/assets/pdf/CameraReadyVersionBankUCB.pdf">PDF</a> ·
+    <a href="https://arxiv.org/abs/2505.10498">arXiv</a>
+  </div>
+</div>
 
-**Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise**  
-With Anuj Abhishek. *Sankhya A*, 85, 1127–1155 (2023). [PDF](/assets/pdf/SankhyaA_AA_SA.pdf) · [arXiv](https://arxiv.org/abs/2011.06887)
+<div class="publication">
+  <div class="pub-title">Adaptive Estimation of a Function from its Exponential Radon Transform in Presence of Noise</div>
+  <div class="pub-details">
+    Anuj Abhishek · <em>Sankhya A</em>, 85, 1127–1155 (2023) ·
+    <a href="/assets/pdf/SankhyaA_AA_SA.pdf">PDF</a> ·
+    <a href="https://arxiv.org/abs/2011.06887">arXiv</a>
+  </div>
+</div>
 
-**To Update or Not to Update? Delayed Nonparametric Bandits with Randomized Allocation**  
-With Yuhong Yang. *Stat*, 10:e366 (2021). [PDF](/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf) · [arXiv](https://arxiv.org/pdf/2005.13078)
+<div class="publication">
+  <div class="pub-title">To Update or Not to Update? Delayed Nonparametric Bandits with Randomized Allocation</div>
+  <div class="pub-details">
+    Yuhong Yang · <em>Stat</em>, 10:e366 (2021) ·
+    <a href="/assets/pdf/STAT_DelayedBandits_SakshiArya.pdf">PDF</a> ·
+    <a href="https://arxiv.org/pdf/2005.13078">arXiv</a>
+  </div>
+</div>
 
-**Randomized Allocation with Nonparametric Estimation for Contextual Multi-Armed Bandits with Delayed Rewards**  
-With Yuhong Yang. *Statistics & Probability Letters*, 164, 108818 (2020). [PDF](/assets/pdf/SPLpaperpublished-main.pdf) · [arXiv](https://arxiv.org/abs/1902.00819)
+<div class="publication">
+  <div class="pub-title">Randomized Allocation with Nonparametric Estimation for Contextual Multi-Armed Bandits with Delayed Rewards</div>
+  <div class="pub-details">
+    Yuhong Yang · <em>Statistics &amp; Probability Letters</em>, 164, 108818 (2020) ·
+    <a href="/assets/pdf/SPLpaperpublished-main.pdf">PDF</a> ·
+    <a href="https://arxiv.org/abs/1902.00819">arXiv</a>
+  </div>
+</div>
 
-**Unbiased Sampling of Users from (Online) Activity Data**  
-With Zach W. Almquist, Li Zeng, and Emma Spiro. *Field Methods*, 31(1), 23–38 (2019). [PDF](/assets/pdf/FieldMethods.pdf)
+<div class="publication">
+  <div class="pub-title">Unbiased Sampling of Users from (Online) Activity Data</div>
+  <div class="pub-details">
+    Zach W. Almquist, Li Zeng, Emma Spiro · <em>Field Methods</em>, 31(1), 23–38 (2019) ·
+    <a href="/assets/pdf/FieldMethods.pdf">PDF</a>
+  </div>
+</div>
 
-## Preprints and Manuscripts Under Review
+<h2>Preprints and Manuscripts Under Review</h2>
 
-**Elicitation and Decision Geometry in Single-Index Bandits** (2026)  
-With Cheng Soon Ong. *Preprint.* [arXiv](https://arxiv.org/pdf/2609.35622)
+<div class="publication">
+  <div class="pub-title">Elicitation and Decision Geometry in Single-Index Bandits</div>
+  <div class="pub-details">
+    Cheng Soon Ong · 2026 ·
+    <a href="https://arxiv.org/pdf/2609.35622">arXiv</a>
+  </div>
+</div>
 
-**Beyond Landmark Extraction: A Framework for Robust Geometric Feature Construction in Structured Image Classification** (2026)  
-With Shiv Mauree\*. *Preprint.* [arXiv](https://arxiv.org/pdf/2609.00634)
+<div class="publication">
+  <div class="pub-title">Beyond Landmark Extraction: A Framework for Robust Geometric Feature Construction in Structured Image Classification</div>
+  <div class="pub-details">
+    Shiv Mauree* · 2026 ·
+    <a href="https://arxiv.org/pdf/2609.00634">arXiv</a>
+  </div>
+</div>
 
-**An Efficient Bayesian Framework for Uncertainty Quantification in Nonlinear Imaging Inverse Problems** (2026)  
-With Anuj Abhishek and Madhu Gupta. *Preprint.* [arXiv](https://arxiv.org/pdf/2607.10817v1) · [Code](https://github.com/sakshiarya/bayesian-uq-qpat-eit)
+<div class="publication">
+  <div class="pub-title">An Efficient Bayesian Framework for Uncertainty Quantification in Nonlinear Imaging Inverse Problems</div>
+  <div class="pub-details">
+    Anuj Abhishek, Madhu Gupta · 2026 ·
+    <a href="https://arxiv.org/pdf/2607.10817v1">arXiv</a> ·
+    <a href="https://github.com/sakshiarya/bayesian-uq-qpat-eit">Code</a>
+  </div>
+</div>
 
-**Near-Optimal Nitrogen Recommendations for Precision Agriculture via Sequential Screening and Hierarchical Refinement** (2026)  
-With Hossein Moradi Rekabdarkolaee and Abdul-Nasah Soale. *Preprint.* [arXiv](https://arxiv.org/abs/2606.31661)
+<div class="publication">
+  <div class="pub-title">Near-Optimal Nitrogen Recommendations for Precision Agriculture via Sequential Screening and Hierarchical Refinement</div>
+  <div class="pub-details">
+    Hossein Moradi Rekabdarkolaee, Abdul-Nasah Soale · 2026 ·
+    <a href="https://arxiv.org/abs/2606.31661">arXiv</a>
+  </div>
+</div>
 
-**Kernel Single-Index Bandits: Estimation, Inference, and Learning** (2026)  
-With Satarupa Bhattacharjee and Bharath K. Sriperumbudur. *Preprint.* [PDF](/assets/pdf/KSIBarXiv.pdf) · [arXiv](https://arxiv.org/abs/2603.18938)
+<div class="publication">
+  <div class="pub-title">Kernel Single-Index Bandits: Estimation, Inference, and Learning</div>
+  <div class="pub-details">
+    Satarupa Bhattacharjee, Bharath K. Sriperumbudur · 2026 ·
+    <a href="/assets/pdf/KSIBarXiv.pdf">PDF</a> ·
+    <a href="https://arxiv.org/abs/2603.18938">arXiv</a>
+  </div>
+</div>
 
-**Batched Single-Index Global Multi-Armed Bandits with Covariates** (2025)  
-With Hyebin Song. *Under minor revision.* [PDF](/assets/pdf/SIRBandits.pdf) · [arXiv](https://arxiv.org/abs/2503.00565)
+<div class="publication">
+  <div class="pub-title">Batched Single-Index Global Multi-Armed Bandits with Covariates</div>
+  <div class="pub-details">
+    Hyebin Song · Under minor revision (2025) ·
+    <a href="/assets/pdf/SIRBandits.pdf">PDF</a> ·
+    <a href="https://arxiv.org/abs/2503.00565">arXiv</a>
+  </div>
+</div>
 
 </div>
