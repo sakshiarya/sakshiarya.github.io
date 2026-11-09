@@ -83,6 +83,19 @@ author_profile: true
 <h2>Peer-Reviewed Publications</h2>
 
 <div class="publication">
+  <div class="pub-title">
+    Batched Single-Index Global Multi-Armed Bandits with Covariates
+  </div>
+  <div class="pub-details">
+    Sakshi Arya, Hyebin Song ·
+    <strong>Accepted, SIAM Journal on Mathematics of Data Science (SIMODS), 2026</strong> ·
+    <a href="/assets/pdf/SIRBandits.pdf">PDF</a> ·
+    <a href="https://arxiv.org/abs/2503.00565">arXiv</a>
+  </div>
+</div>
+
+
+<div class="publication">
   <div class="pub-title">Kernel ε-Greedy for Multi-Armed Bandits with Covariates</div>
   <div class="pub-details">
     Sakshi Arya, Bharath K. Sriperumbudur ·
@@ -206,13 +219,6 @@ author_profile: true
   </div>
 </div>
 
-<div class="publication">
-  <div class="pub-title">Batched Single-Index Global Multi-Armed Bandits with Covariates</div>
-  <div class="pub-details">
-    Sakshi Arya, Hyebin Song · Under minor revision (2025) ·
-    <a href="/assets/pdf/SIRBandits.pdf">PDF</a> ·
-    <a href="https://arxiv.org/abs/2503.00565">arXiv</a>
-  </div>
-</div>
+
 
 </div>
