@@ -109,9 +109,7 @@ I am interested in advising PhD students and collaborating with undergraduate an
 
 <div class="news-item">
   <span class="news-date">November 2026</span> ·
-  Excited to share that my paper with Hyebin Song,
-  <em>Batched Single-Index Global Multi-Armed Bandits with Covariates</em>,
-  has been accepted for publication in the
+  Excited to share that my paper on batched single-index bandits with Hyebin Song has been accepted in the
   <em>SIAM Journal on Mathematics of Data Science (SIMODS)</em>!
 </div>
 
