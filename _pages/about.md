@@ -109,12 +109,23 @@ I am interested in advising PhD students and collaborating with undergraduate an
 
 <div class="news-item">
   <span class="news-date">November 2026</span> ·
-  Excited to share that my paper with Bharath Sriperumbudur, stemming from my postdoctoral research, has been accepted for publication in the <em>Electronic Journal of Statistics</em>!
+  Excited to share that my paper with Hyebin Song,
+  <em>Batched Single-Index Global Multi-Armed Bandits with Covariates</em>,
+  has been accepted for publication in the
+  <em>SIAM Journal on Mathematics of Data Science (SIMODS)</em>!
 </div>
 
 <div class="news-item">
   <span class="news-date">November 2026</span> ·
-  I will be attending the SIAM Conference on Mathematics of Data Science in Salt Lake City.
+  Excited to share that my paper with Bharath Sriperumbudur,
+  stemming from my postdoctoral research, has been accepted
+  for publication in the <em>Electronic Journal of Statistics</em>!
+</div>
+
+<div class="news-item">
+  <span class="news-date">November 2026</span> ·
+  I will be attending the SIAM Conference on Mathematics
+  of Data Science in Salt Lake City.
 </div>
 
 <h2>Contact</h2>
