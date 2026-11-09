@@ -88,7 +88,7 @@ author_profile: true
   </div>
   <div class="pub-details">
     Sakshi Arya, Hyebin Song ·
-    <strong>Accepted, SIAM Journal on Mathematics of Data Science (SIMODS), 2026</strong> ·
+    <em> SIAM Journal on Mathematics of Data Science (SIMODS), accepted (2026) ·
     <a href="/assets/pdf/SIRBandits.pdf">PDF</a> ·
     <a href="https://arxiv.org/abs/2503.00565">arXiv</a>
   </div>
